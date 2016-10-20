@@ -1,0 +1,8 @@
+.DS_Store
+.bundle/
+log/*.log
+pkg/
+spec/test_gem/db/*.sqlite3
+spec/test_gem/db/*.sqlite3-journal
+spec/test_gem/log/*.log
+spec/test_gem/tmp/
